@@ -1,0 +1,151 @@
+.container{
+    height: 400px;
+    width: 350px;
+    border: 0.5px solid #cecece;
+    margin: auto;
+    background-color: #ffffff;
+    margin-top: 5rem;
+}
+h1{
+    font-family: 'Satisfy', cursive;
+    font-size: 40px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    
+}
+.text{
+    height: 35px;
+    width: 270px;
+    margin-left: 35px;
+    display: grid;
+    background-color: #fafafa;
+    border: 0.5px solid #cecece;
+   
+}
+.password{
+    height: 35px;
+    width: 270px;
+    margin-top: 7px;
+    margin-left: 35px;
+    display: grid;
+    background-color: #fafafa;
+    border: 0.5px solid #cecece ;
+}
+.button{
+    height: 35px;
+    width: 280px;
+    background-color: #0094f6bd;
+    margin-left: 33px;
+    margin-top: 15px;
+    border-radius: 10px 10px 10px 10px;
+    border: 0.5px solid rgb(244, 242, 242);
+    color: rgba(243, 243, 238, 0.874);
+    font-size: 14px;
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    
+}
+
+.line{
+    height: 0;
+    width: 280px;
+    border: 0.5px solid #cecece;
+    display: flex;
+    margin-left: 35px;
+    margin-bottom: 30px;
+    
+}
+
+.or{
+    height: 20px;
+    width: 50px;
+    display: flex;
+    color: #737373;
+    background-color: white;
+    border: none;
+    margin: auto;
+    font-size: 13px;
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    position: relative;
+    bottom: 40px;
+    justify-content: center;
+
+}
+ 
+img{
+    height: 15px;
+    width: 15px;
+    display: flex;
+
+}
+
+.fb{
+   justify-content: center;
+   display: flex;
+}
+ 
+a{
+    text-decoration: none;
+    margin-left: 8px;
+    color: #385185;
+    font-size: 14px;
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+.fp{
+    text-align: center;
+    color: #00376B;
+    margin-top: 15px;
+    
+}
+/* ------------------------------------------------------------------------------------------------ */
+
+.container2{
+    height: 60px;
+    width: 350px;
+    border: 0.5px solid #cecece;
+    margin: auto;
+    background-color: #ffffff;
+    margin-top: 10px;
+}
+p{
+    display: flex;
+    margin-left: 30px;
+    justify-content: center;
+    font-size: 14px;
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+.sp{
+     color: #0094F6;
+     font-size: 14px;
+     font-style: blinkmac;
+} 
+  /* ------------------------------------------------------------------------------------------- */
+
+.bt1{
+    height: 40px;
+    width: 150px;
+    margin-left: 600px;
+    border-radius: 5px 5px 5px 5px;
+    
+    border: none;
+}
+ .img1{
+    height: 40px;
+    width: 150px;
+    border-radius: 5px 5px 5px 5px;
+    display: flex;
+    margin-left: 5px;
+    
+ }
+
+.container3{
+    height: 60px;
+    width: 350px;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    padding-right: 25px;
+    
+
+}
